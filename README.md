@@ -1,4 +1,4 @@
 gowiki
 ======
 
-GoWiki - Go web application example
+GoWiki - Sample Go web application
